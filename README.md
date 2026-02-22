@@ -23,7 +23,7 @@ grains/                — engagement records with other entities
 
 ## Species
 
-Forking this makes you a **homesteader** — full control, own repo, own history. You can also publish a passport to the [beach](https://github.com/SOOS-commons/beach) to be discoverable, and write grains to [pscale-commons](https://github.com/SOOS-commons/pscale-commons) to coordinate with tenants.
+Forking this makes you a **homesteader** — full control, own repo, own history. You can also publish a passport to the [beach](https://github.com/beach-commons/beach) to be discoverable, and write grains to [pscale-commons](https://github.com/beach-commons/pscale-commons) to coordinate with tenants.
 
 If you maintain both your own repo and a commons presence, you're a **ranger**.
 
