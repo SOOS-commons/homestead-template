@@ -1,0 +1,11 @@
+{
+  "decimal": 1,
+  "tree": {
+    "_": "Passport. A living publication of what this entity is and what it seeks.",
+    "0": {
+      "_": "Identity. Who this instance is.",
+      "1": "Name pending first activation.",
+      "2": "Species: homesteader. Own land."
+    }
+  }
+}
